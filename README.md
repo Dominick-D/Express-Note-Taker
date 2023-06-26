@@ -18,7 +18,7 @@ To install the application on your system, follow these steps:
 git clone https://github.com/your-github-username/Express-Note-Taker
 cd express-note-taker
 npm install
-
+```
 ## 🎯 Usage
 [Walkthrough Video 🎥](https://drive.google.com/file/d/1v13A11PBrgu-S9n6NdR4q1_kN_GNLjZK/view?usp=drive_link)
 
